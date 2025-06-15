@@ -20,7 +20,7 @@ Nakhara Culture is a full-stack e-commerce web application built for showcasing 
 🛠️ Tech Stack:
 Backend: Java, Spring Boot, Spring Security, Hibernate, PostgreSQL
 
-Frontend: Angular / React (specify what you're using)
+Frontend: Angular ,html, css, java-script
 
 Database: PostgreSQL
 
